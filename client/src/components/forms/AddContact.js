@@ -35,6 +35,7 @@ const AddContact = () => {
         });
       }
     })
+    form.resetFields();
   }
 
   return (
